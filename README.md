@@ -1,12 +1,8 @@
 <h2 align="left">Hi👋! My name is Jesus and I'm a Software Engineer</h2>
 
-###
-
 <br clear="both">
 
 <p align="left">🔭 I’m currently working on a secret project 🤫<br><br>🌱 I’m currently learning Go and Svelte<br><br>❓ Curious about anything related to automation and building performant and scalable systems<br><br>⚡ Hobbies: Kickboxing, hiking, rock climbing, and going to concerts</p>
-
-###
 
 <br clear="both">
 
@@ -16,11 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmarron7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <h2 align="left">Tech I Use</h2>
-
-###
 
 <br clear="both">
 
@@ -36,11 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
 </div>
 
-###
-
 <img align="right" height="150" src="https://media.tenor.com/VuhQy-470nMAAAAC/unicorn-gundam-gundam.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jesusmarron/" target="_blank">
@@ -50,5 +38,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
