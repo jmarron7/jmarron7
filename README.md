@@ -1,15 +1,8 @@
 <h2 align="left">Hi👋! My name is Jesus and I'm a Software Engineer</h2>
 
-<br clear="both">
-
 <p align="left">🔭 I’m currently working on a secret project 🤫<br>🌱 I’m currently learning Go and Svelte<br>❓ Curious about anything related to automation and building performant and scalable systems<br>⚡ Hobbies: Kickboxing, hiking, rock climbing, and going to concerts</p>
 
-![](https://raw.githubusercontent.com/jmarron7/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jmarron7/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ## Tech I Use
-
-<br clear="both">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -29,9 +22,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jesusmarron/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jmarron7_dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://hello@jesusmarron.com)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://www.buymeacoffee.com/jesusmarron)
 
-
 <div align="center">
-<img src"https://media.tenor.com/VuhQy-470nMAAAAC/unicorn-gundam-gundam.gif" height="150" width="230"/>
+<img src="https://github.com/jmarron7/jmarron7/blob/main/assets/unicorn-gundam.gif?raw=true" height="175" width="315"/>
 </div>
