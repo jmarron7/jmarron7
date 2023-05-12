@@ -19,7 +19,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmarron7&count_private=true&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarron7&theme=noctis_minimus&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarron7&theme=noctis_minimus&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect With Me 
 
