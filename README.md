@@ -2,7 +2,7 @@
 
 <p align="left">
   🔭 Currently working @ FedEx Ground building full-stack applications and services with Angular, Typescript, Java, and Spring Boot <br>
-  🌱 Learning Go and Svelte <br> 
+  🌱 Learning Go and Svelte in my free time <br> 
   ❓ Curious about anything related to automation and building performant and scalable distributed systems <br> 
   </p>
 
