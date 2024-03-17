@@ -1,6 +1,9 @@
 <h2 align="left">Hi👋! My name is Jesus and I'm a Software Engineer</h2>
 
-<p align="left">🔭 I’m currently working on a secret project 🤫<br>🌱 I’m currently learning Go and Svelte<br>❓ Curious about anything related to automation and building performant and scalable systems<br>⚡ Hobbies: Kickboxing, hiking, rock climbing, and going to concerts</p>
+<p align="left">🔭 Currently working @ FedEx Ground building full-stack apps and services<be>
+  🌱 Learning Go and Svelte <be>
+  ❓ Curious about anything related to automation and building performant and scalable distributed systems <be>
+</p>
 
 ## 🧑🏽‍💻 Tech I Use 
 
