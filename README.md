@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋! My name is Jesus and I'm a Software Engineer</h2>
 
 <p align="left">
-  🔭 Currently working @ FedEx Ground building full-stack apps and services <br>
+  🔭 Currently working @ FedEx Ground building full-stack applications and services with Angular, Typescript, Java, and Spring Boot <br>
   🌱 Learning Go and Svelte <br> 
   ❓ Curious about anything related to automation and building performant and scalable distributed systems <br> 
   </p>
