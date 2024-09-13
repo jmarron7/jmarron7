@@ -1,6 +1,6 @@
 # Hi 👋, my name's Jesus!
 
-I'm a Fullstack Software Engineer at [FedEx Ground](https://www.fedex.com/) building internal applications and microservices that enable supply chain operations across North America. 
+I'm a Fullstack Software Engineer at [FedEx](https://www.fedex.com/) building internal applications and microservices that enable supply chain operations across North America. 
 
 My tech experience has ranged from using code, scripts, and programming to handle tasks in IT help desk, systems engineering, platform engineering, and full stack engineering roles. 
 
