@@ -2,7 +2,7 @@
 
 - 💻 **Fullstack Software Engineer** at [FedEx](https://www.fedex.com/) – Building Java/Spring Boot microservices and Angular microfrontends in an event-driven architecture to support supply chain operations.
 - ⚡ **Past Experience:** Worked in IT, systems engineering, platform engineering, and fullstack development, automating infrastructure and building internal tools.
-- 🔍 **Interests:** Distributed systems, performance optimization, developer productivity, machine learning and game development.
+- 🔍 **Interests:** Distributed systems, performance optimization, developer productivity, machine learning, and game development.
 - 🛠 **Tech I Enjoy:** Go, Python, TypeScript, and Svelte.
 - 🚀 **Currently Learning:** Lower level languages like Odin/Rust/Zig, distributed systems, and experimenting with machine learning.
 
